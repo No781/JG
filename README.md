@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foundation for Sites Template
 
 **Please open all issues with this template on the main [Foundation for Sites](https://github.com/zurb/foundation-sites/issues) repo.**
@@ -46,3 +47,6 @@ bower install
 ```
 
 Finally, run `npm start` to run the Sass compiler. It will re-run every time you save a Sass file.
+=======
+# JG
+>>>>>>> 28582bbfacc42984d0c63be4f2007a13c4f03afb
